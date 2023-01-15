@@ -1,0 +1,10 @@
+Dependencies
+
+1. React-bootstrap 
+    ->Visit : https://react-bootstrap.github.io/getting-started/introduction/
+	-> npm 
+	
+	* reactswatch : for customize components
+	    ->https://bootswatch.com/
+		 and download any package for customization..
+		 click on download and download the min.css package
