@@ -8,3 +8,14 @@ Dependencies
 	    ->https://bootswatch.com/
 		 and download any package for customization..
 		 click on download and download the min.css package
+
+
+
+
+Note: 
+1.Pending cart funtionality
+2.User Login 
+3.User Registration
+4.JWT Tokenisation for user authentication(Almost Completed)
+5.WishList Funtionality 
+6.Payement Intigeration using Stripe. 
