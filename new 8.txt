@@ -19,3 +19,6 @@ Note:
 4.JWT Tokenisation for user authentication(Almost Completed)
 5.WishList Funtionality 
 6.Payement Intigeration using Stripe. 
+
+Some git command:
+  1. Push the folder and remove the whole folder
